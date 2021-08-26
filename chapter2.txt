@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 no alien 2
+=======
+alien 2
+>>>>>>> alien-plot
